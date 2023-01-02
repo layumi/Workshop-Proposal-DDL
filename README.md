@@ -45,6 +45,10 @@ About 1st of March, 2022
 
 
 ## ------------------2024------------------ 
+
+### WACV 2024  (About)
+August 8, 2023
+
 ### ACCV 2024 Vietnam (Two years Once）
 Proposal Submission Deadline: 22 April, 2024
 
