@@ -25,6 +25,9 @@ https://sigir.org/sigir2023/submit/call-for-workshop-proposals/
 
 Proposal Deadline: January 10, 2023
 
+### ICIP 2023 (Kuala Lumpur, Malaysia) 吉隆坡
+
+Tutorials and Short Courses Proposal Deadline: January 11, 2023 
 
 
 ### ICCV 2023 (Paris, France)
@@ -39,10 +42,6 @@ Notification by: March 27, 2023 (23:59 GMT)
 
 About 1st of March, 2022 
 
-
-### ICIP 2023 (Kuala Lumpur, Malaysia) 吉隆坡
-
-Tutorials and Short Courses Proposal Deadline: January 11, 2023 
 
 
 ## ------------------2024------------------ 
